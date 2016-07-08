@@ -151,6 +151,7 @@ def inner_four_end(input_list):
     return input_list[-3:-7:-1]
 
 
+
 def replace_head(input_list):
     """
     Replace the head of the input list with the value 42 and
