@@ -119,7 +119,7 @@ def middle(input_list):
 
     """
 
-    return input_list[]
+    return input_list[2:-2]
 
 
 def inner_four(input_list):
