@@ -105,7 +105,7 @@ def last_five(input_list):
 
     """
 
-    return []
+    return input_list[-5:]
 
 
 def middle(input_list):
@@ -119,7 +119,7 @@ def middle(input_list):
 
     """
 
-    return []
+    return input_list[]
 
 
 def inner_four(input_list):
@@ -144,7 +144,7 @@ def inner_four_end(input_list):
     For example:
 
     >>> inner_four_end([0, 3, 6, 9, 12, 15, 18, 21, 24, 27])
-    [12, 15, 18, 21]
+    [21, 18, 15, 12]
 
     """
 
